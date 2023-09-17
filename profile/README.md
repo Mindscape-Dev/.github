@@ -23,7 +23,6 @@ This GitHub organization has been created with the purpose of developing various
 - ### Muhammet Emin Özkan  
     - [Github](https://github.com/eminozkan)
     - [LinkedIn](https://www.linkedin.com/in/emin-ozkan/)
-    - Email : info@eminozkan.net
 
 - ### Melis Ölmez
   - [Github](https://github.com/melisolmez)
