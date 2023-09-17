@@ -25,3 +25,7 @@ This GitHub organization has been created with the purpose of developing various
     - [LinkedIn](https://www.linkedin.com/in/emin-ozkan/)
     - Email : info@eminozkan.net
 
+- ### Melis Ölmez
+  - [Github](https://github.com/melisolmez)
+  - [LinkedIn](https://www.linkedin.com/in/melisolmez/)
+
